@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A17FACCF-45AD-EB70-7F38-EBA2BC4D50EE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ClickstreamPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
